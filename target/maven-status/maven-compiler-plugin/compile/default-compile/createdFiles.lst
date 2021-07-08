@@ -1,0 +1,5 @@
+pageObjects\Landingpage.class
+resources\Base.class
+resources\ExtentreporttestNG.class
+pageObjects\Forgotpwd.class
+pageObjects\Loginpage.class
